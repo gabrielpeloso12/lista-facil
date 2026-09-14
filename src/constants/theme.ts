@@ -1,0 +1,18 @@
+export const colors = {
+  background: '#F8FAFC',
+  card: '#FFFFFF',
+  border: '#E2E8F0',
+  dark: '#0F172A',
+  darkGradientEnd: '#1E293B',
+  text: '#0F172A',
+  textMuted: '#64748B',
+  textFaint: '#94A3B8',
+  buttonEnabled: '#475569',
+  buttonDisabled: '#CBD5E1',
+  buttonDisabledText: '#94A3B8',
+  progressTrack: '#E2E8F0',
+  progressTrackDark: '#334155',
+  white: '#FFFFFF',
+  star: '#F59E0B',
+  danger: '#DC2626',
+};
